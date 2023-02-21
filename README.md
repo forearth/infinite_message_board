@@ -1,4 +1,4 @@
-# 무한 전광판 만들기
+# IOT 무한전광판
 ![무한전광판](https://github.com/forearth/infinite_message_board/blob/main/imgs/infinite_board.png?raw=true)
 
 ## 사용방법
